@@ -1,0 +1,3 @@
+rootProject.name = 'clean-architecture-in-action'
+
+include 'two-way-mapping-strategy-with-malfunctioning-lazy-loading'
