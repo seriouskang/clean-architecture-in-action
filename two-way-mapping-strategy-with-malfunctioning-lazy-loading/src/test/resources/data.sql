@@ -1,0 +1,1 @@
+insert into book values(1, 'dummy-author', 'dummy-title', 'dummy-contents');
